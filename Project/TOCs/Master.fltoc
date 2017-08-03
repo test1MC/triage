@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultToc
+  Version="1">
+  <TocEntry
+    Title="[%=System.LinkedTitle%]"
+    Link="/Content/A_Introduction Topics/Getting Started.htm">
+    <TocEntry
+      Title="[%=System.LinkedTitle%]"
+      Link="/Content/A_Introduction Topics/Basic Steps.htm" />
+    <TocEntry
+      Title="[%=System.LinkedTitle%]"
+      Link="/Content/A_Introduction Topics/Whats New.htm" />
+  </TocEntry>
+  <TocEntry
+    Title="New TOC Book"
+    Link="/Project/TOCs/Test.fltoc">
+    <TocEntry
+      Title="New Entry" />
+  </TocEntry>
+</CatapultToc>
